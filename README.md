@@ -1,16 +1,31 @@
-### Hi there 👋
+😀 Hey, Welcome to my Github Page
+😁 Who am I?
+My name is Shreyas Penkar, pursuing Bachelor's in Computer Engineering at VJTI, 23'.
 
-<!--
-**Shreyas-Penkar/Shreyas-Penkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Passionate about?
+CODING!!
+GAMING!!
+CREATING!!
 
-Here are some ideas to get you started:
+✨ Skills
+- Javascript (Web Dev) (React)
+- Data Scientist (modeling,analysis)
+- Python (ML, AI, Automation)
+- C++,Java
+etc...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💥 Best Projects
+🤖 twAIn - An AI that writes stories. (JS, Flutter, Python)
+📑 Turn the Tables - A Data Extration Web App that converts Images to Tables. (JS, Flask, OpenCV)
+📊 Youtube Sentiment Analysis - A script to find user sentiments towars a particular youtube video. (Python)
+etc...
+
+📞 Contact Me
+- Email Id: shreyaspenkar999@gmail.com
+- LinkedIn : Shreyas Penkar
+
+
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on Data Science Projects
+- ⚡ Fun fact: If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.
+
