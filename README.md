@@ -18,6 +18,11 @@ etc...
 * 📑 [**Turn the Tables**](https://github.com/Shreyas-Penkar/Turn-The-Tables) - A Data Extration Web App that converts Images to Tables. *(JS, Flask, OpenCV)*
 * 📊 [**Youtube Sentiment Analysis**](https://github.com/Shreyas-Penkar/Youtube-Sentimental-Analysis) - A script to find user sentiments towars a particular youtube video. (Python)
 etc...
+<br>
+* 🌱 I’m currently learning Data Science
+* 👯 I’m looking to collaborate on Data Science Projects
+* ⚡ Fun fact: If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.
+<br>
 
 ## 📞 Contact Me
 * Email Id: shreyaspenkar999@gmail.com
@@ -25,7 +30,5 @@ etc...
 * Angel.co : [Shreyas Penkar](https://angel.co/u/shreyas-penkar)
 
 
-* 🌱 I’m currently learning Data Science
-* 👯 I’m looking to collaborate on Data Science Projects
-* ⚡ Fun fact: If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.
+
 
