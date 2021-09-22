@@ -25,7 +25,7 @@ etc...
 ## 📞 Contact Me
 * Email Id: shreyaspenkar123@gmail.com
 * LinkedIn : [Shreyas Penkar](https://www.linkedin.com/in/shreyas-penkar-2934891a7)
-* Angel.co : [Shreyas Penkar](https://angel.co/u/shreyas-penkar)
+
 
 
 
