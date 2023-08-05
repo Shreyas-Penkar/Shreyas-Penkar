@@ -1,3 +1,4 @@
+## 💥 Skills
 * Javascript (Web Dev) (React)
 * Ethical Hacking/Pentesting
 * Malware Analysis
