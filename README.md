@@ -44,5 +44,4 @@
 ## 📞 Contact Me
 * LinkedIn : [Shreyas Penkar](https://www.linkedin.com/in/shreyas-penkar-2934891a7)
 
-## 📈 Github Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyas-Penkar&bg_color=0D1117&title_color=f95959&text_color=e3e3e3&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Penkar&bg_color=0D1117&title_color=f95959&text_color=e3e3e3&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact&langs_count=8&card_width=250")
+
