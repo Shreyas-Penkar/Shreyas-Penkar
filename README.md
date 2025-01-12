@@ -32,9 +32,13 @@
 ## ➡️ Product Development Skills 🧠✨
 
 [➕] Web Development (ReactJs, Flask, ElectronJS)
+
 [➕] Android Development (Java)
+
 [➕] SQL, MongoDB, Neo4j
+
 [➕] Data Structures and Algorithms, Machine Learning
+
 [➕] Solidity, Ganache, Blockchain
 
 ## 📞 Contact Me
