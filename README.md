@@ -1,47 +1,22 @@
 ## ➡️ About Me 🐱
 
-[⭐] CyberSecurity Researcher, Computer Engineer and a keen Programmer.
+[⭐] Android Security Researcher, Computer Engineer and a keen Programmer.
 
 ## ➡️ Security Research Skills 🧠✨
 
-[➕] Android Security
+[➕] Android Security Expertise
+[➕] Experience in Android N-Day Research, Vulnerability Analysis, Triaging, and Exploitation
+[➕] In-depth Knowledge of Android OS Internals and NDK System Programming
+[➕] Familiarity with ARM, Intel, MIPS, and Basic Hexagon Architectures
+[➕] Knowledge of KGSL and ARM Mali GPU VR (and kernel drivers like - cvp,adsprpc)
+[➕] Linux System and Kernel Driver Programming
+[➕] Basic Understanding of V8, Chrome Internals, and V8 Type Confusion Bug Analysis
+[➕] Foundational Knowledge in MediaTek and Shannon Baseband Research
+[➕] Proficient in Programming Languages: Python, Java, C/C++, and Rust
 
-[➕] Familiarity with ARM, Intel, MIPS and Basic Hexagon
-
-[➕] Malware Analysis and Reverse Engineering
-
-[➕] Linux System/Kernel Driver Programming
-
-[➕] Android Internals and NDK system programming 
-
-[➕] Android Library Reverse Engineering and Analysis 
-
-[➕] Android N - day Research and Vulnerability analysis and triaging
-
-[➕] x86_64 Exploit Development and ARM shellcoding
-
-[➕] KGSL and ARM Mali GPU VR
-
-[➕] Proficient in Python, Java and C/C++, Rust
-
-[➕] Basic knowledge about V8, Chrome Internals and V8 type confusion bugs analysis.
-
-[➕] Basic Idea on MediaTek and Shannon Baseband Research 
-
-
-## ➡️ Product Development Skills 🧠✨
+## ➡️ Software Development Skills 🧠✨
 
 [➕] Web Development (ReactJs, Flask, ElectronJS)
-
 [➕] Android Development (Java)
-
-[➕] SQL, MongoDB, Neo4j
-
-[➕] Data Structures and Algorithms, Machine Learning
-
-[➕] Solidity, Ganache, Blockchain
-
-## 📞 Contact Me
-* LinkedIn : [Shreyas Penkar](https://www.linkedin.com/in/shreyas-penkar-2934891a7)
-
-
+[➕] SQL, MongoDB
+[➕] Data Structures and Algorithms
