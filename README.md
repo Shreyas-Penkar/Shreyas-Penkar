@@ -22,15 +22,5 @@
 
 [➕] Proficient in Programming Languages: Python, Java, C/C++, and Rust
 
-## ➡️ Software Development Skills 🧠✨
-
-[➕] Web Development (ReactJs, Flask, ElectronJS)
-
-[➕] Android Development (Java)
-
-[➕] SQL, MongoDB
-
-[➕] Data Structures and Algorithms
-
 ## ☎️ Contact Me
 [Linkedin](https://www.linkedin.com/in/shreyas-penkar-2934891a7/)
