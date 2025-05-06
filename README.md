@@ -1,6 +1,6 @@
 ## ➡️ About Me 🐱
 
-[⭐] Android Security Researcher, Computer Engineer and a keen Programmer.
+[⭐] Android Vulnerability Researcher, Computer Engineer and a keen Programmer.
 
 ## ➡️ Security Research Skills 🧠✨
 
