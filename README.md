@@ -22,6 +22,3 @@
 
 [➕] Proficient in Programming Languages: Python, Java, C/C++, and Rust
 
-## ☎️ Contact Me
-
-👈
