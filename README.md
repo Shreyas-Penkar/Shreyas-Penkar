@@ -22,3 +22,6 @@
 
 [➕] Proficient in Programming Languages: Python, Java, C/C++, and Rust
 
+## ➡️ My Blog
+
+https://streypaws.github.io
