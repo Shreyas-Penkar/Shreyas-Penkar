@@ -6,15 +6,15 @@ As a passionate vulnerability researcher, I thrive on unraveling the intricate l
 
 ➡️ Skills 🧠✨
 
-[➕] Android/Browser Security Expertise
-[➕] Experience in Android/Browser N-Day Research, Vulnerability Analysis, Triaging, and Exploitation
-[➕] In-depth Knowledge of Android OS Internals and NDK System Programming
-[➕] Familiarity with ARM, Intel, MIPS, and Basic Hexagon Architectures
-[➕] Knowledge of KGSL and ARM Mali GPU VR (and kernel drivers like - cvp,adsprpc)
-[➕] Linux System and Kernel Driver Programming
-[➕] Experience in V8, Chrome Internals, and V8 Type Confusion Bug Analysis & Fuzzing
-[➕] Foundational Knowledge in MediaTek and Shannon Baseband Research
-[➕] Proficient in Programming Languages: Python, Java, C/C++, and Rust
+[➕] Android/Browser Security Expertise                                                                                               
+[➕] Experience in Android/Browser N-Day Research, Vulnerability Analysis, Triaging, and Exploitation                                                                                               
+[➕] In-depth Knowledge of Android OS Internals and NDK System Programming                                                                                               
+[➕] Familiarity with ARM, Intel, MIPS, and Basic Hexagon Architectures                                                                                               
+[➕] Knowledge of KGSL and ARM Mali GPU VR (and kernel drivers like - cvp,adsprpc)                                                                                               
+[➕] Linux System and Kernel Driver Programming                                                                                               
+[➕] Experience in V8, Chrome Internals, and V8 Type Confusion Bug Analysis & Fuzzing                                                                                               
+[➕] Foundational Knowledge in MediaTek and Shannon Baseband Research                                                                                               
+[➕] Proficient in Programming Languages: Python, Java, C/C++, and Rust                                                                                               
 
 ➡️ My Blog 📖
 
