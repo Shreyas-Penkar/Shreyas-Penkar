@@ -1,6 +1,6 @@
 ➡️ About Me 🧑🏻‍💻
 
-Hi! I'm Shreyas, an Android/Browser Vulnerability Researcher, Computer Engineer and a keen Programmer :)
+Hi! I'm Shreyas, an Android/Browser Vulnerability Researcher, Computer Engineer and a keen Programmer 😄
 
 As a passionate vulnerability researcher, I thrive on unraveling the intricate layers of system internals and uncovering hidden flaws that lie beneath. With a strong foundation in Android kernel and driver VR, cross-architecture debugging, and a deep curiosity for how things break — and why — I enjoy pushing boundaries in vulnerability discovery and analysis. Whether it’s dissecting Android drivers, exploring codebases, or probing V8 internals, I’m driven by the art and science of security research and the constant pursuit of deeper technical mastery.
 
